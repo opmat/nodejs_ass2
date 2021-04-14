@@ -8,7 +8,7 @@ const server = http.createServer(function(req, resp){
 
     http.get(url,(res) => {
         let body = "";
-
+        //read json content from URL and concatenate to body
         res.on("data", (chunk) => {
             body += chunk;
         });

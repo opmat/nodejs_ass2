@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "opmat"
+    "url": "https://github.com/opmat/nodejs_ass2"
   },
   "keywords": [
     "filesystem",
