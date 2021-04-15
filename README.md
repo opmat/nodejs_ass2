@@ -25,3 +25,4 @@ or if you wish to run the app from another directory, you will need to specify t
    node *path to index.js file*/index.js
    
 ```
+Then you can access the app through **http://localhost:3333** or **http://127.0.0.1:3333**
